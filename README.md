@@ -1,4 +1,4 @@
-\
+
 
 # 🎯 Image-to-Text OCR Extractor in Python
 
@@ -9,7 +9,7 @@ This repository serves as a practical project for my **GitHub Portfolio**.
 ---
 
 ## 📸 Game Preview
-![OCR Screenshot]((https://github.com/saqib783/image-to-text-ocr-python/blob/88a0287b8704859eba2af172f91d246408392454/Screenshot%20(1933).png))
+![OCR Screenshot](https://github.com/saqib783/image-to-text-ocr-python/blob/88a0287b8704859eba2af172f91d246408392454/Screenshot%20(1933).png)
 ---
 
 ## 📺 Video Tutorial & Code Breakdown
